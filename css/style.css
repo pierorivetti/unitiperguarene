@@ -69,9 +69,16 @@ figure {
   background: #F75940; }
 
 #colorlib-page {
+  background: #FEA86D;
   width: 100%;
   overflow: hidden;
   position: relative; }
+
+#colorlib-header {
+  padding-left: 2.7em;
+  padding-bottom: 20px;
+  width: 20%;
+}
 
 #colorlib-aside {
   padding-top: 3em;
@@ -85,7 +92,7 @@ figure {
   left: 0;
   right: 0;
   z-index: 1001;
-  background: #fff;
+  background: #FEA86D;
   -webkit-transition: 0.5s;
   -o-transition: 0.5s;
   transition: 0.5s; }
