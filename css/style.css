@@ -421,6 +421,7 @@ body.offcanvas {
     transform: translateX(270px); }
 
 .colorlib-blog {
+  background: #fff;
   padding: 2em 0;
   clear: both;
   width: 100%;
